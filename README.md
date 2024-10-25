@@ -7,7 +7,7 @@ Esta API foi desenvolvida como parte de um desafio técnico para uma vaga de est
 
 - CRUD Alunos: Cadastrar, listar, atualizar e deletar alunos.
 - CRUD Turmas: Cadastrar, listar, atualizar e deletar turmas.
-- Relacionamento: Cada aluno pode pertencer a uma turma.
+- Relacionamento: Cada aluno pode pertencer a várias turmas e uma turma pode ter vários alunos (N:N).
 - Documentação Swagger: Interface interativa para testar os endpoints.
 - Validação e Tratamento de Erros: Validação básica para os dados recebidos pela API.
 
